@@ -1,0 +1,3 @@
+name = "cf-worker-calc"
+main = "src/index.js"
+compatibility_date = "2022-08-14"
